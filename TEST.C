@@ -1,7 +1,7 @@
 /* To compile, use "c88 test" then "bind test" */
 main()
    {
-   int i;
+   char i;
    char str[128];
 
    printf("type characters, Press Esc to exit\n");
